@@ -1,4 +1,4 @@
-### Leonardo Pinho
+# Leonardo Pinho
 
 [![Instagram Badge](http://img.shields.io/badge/-@lj.pinho-002777?style=flat-square&labelColor=002777&logo=Instagram&logoColor=white&link=https://www.instagram.com/lj.pinho/)](https://www.instagram.com/lj.pinho/)
 [![Gmail Badge](http://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=Gmail&logoColor=white&link=mailto:contato@leonardopinho.com)](mailto:contato@leonardopinho.com)
