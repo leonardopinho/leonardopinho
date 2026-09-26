@@ -9,26 +9,3 @@ Software Engineer apaixonado por arquitetura de software e desenvolvimento de so
 Tenho experiência no desenvolvimento de aplicações utilizando **Python, Go, Dart (Flutter), C#, PHP e JavaScript**, atuando desde sistemas corporativos até plataformas web, mobile e serviços distribuídos.
 
 Sou graduado em **Sistemas de Informação** pela **UNIFACS** e pós-graduado em **Ciência de Dados**, com interesse especial por Inteligência Artificial, arquitetura de microserviços, DevOps e boas práticas de engenharia de software.
-
-Acredito em software simples, bem projetado e sustentável, construído com foco em qualidade, automação e evolução contínua.
-
-## Tecnologias
-
-- Python
-- Go
-- Flutter / Dart
-- FastAPI
-- Django
-- Docker
-- PostgreSQL
-- MongoDB
-- Redis
-- Linux
-- GitHub Actions
-
-## Atualmente
-
-- Explorando Engenharia de IA e agentes inteligentes.
-- Projetando arquiteturas distribuídas e orientadas a eventos.
-- Desenvolvendo aplicações multiplataforma com Flutter.
-- Construindo APIs e serviços de alta performance com Python.
