@@ -1,11 +1,15 @@
 # Leonardo Pinho
 
-[![Gmail Badge](http://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=Gmail&logoColor=white&link=mailto:contato@leonardopinho.com)](mailto:contato@leonardopinho.com)
-[![Linkedin Badge](http://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-pinho/)](https://www.linkedin.com/in/leonardo-pinho/)
-[![Twitter Badge](http://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=twitter&logoColor=white&link=https://twitter.com/leonardopinho)](https://twitter.com/leonardopinho) 
+[![Gmail Badge](https://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=Gmail&logoColor=white)](mailto:contato@leonardopinho.com)
+[![Linkedin Badge](https://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pinho/)
+[![Twitter Badge](https://img.shields.io/badge/-@leonardopinho-002777?style=flat-square&labelColor=002777&logo=twitter&logoColor=white)](https://twitter.com/leonardopinho)
 
-Software Engineer apaixonado por arquitetura de software e desenvolvimento de soluções escaláveis.
+Sou engenheiro de software, curioso por natureza e gosto de entender como as coisas funcionam — especialmente quando envolvem tecnologia.
 
-Tenho experiência no desenvolvimento de aplicações utilizando **Python, Go, Dart (Flutter), C#, PHP e JavaScript**, atuando desde sistemas corporativos até plataformas web, mobile e serviços distribuídos.
+Ao longo da minha trajetória, venho trabalhando com **Python, Go, Dart (Flutter), C#, PHP e JavaScript**, desenvolvendo desde aplicações corporativas até soluções web, mobile e sistemas distribuídos.
 
-Sou graduado em **Sistemas de Informação** pela **UNIFACS** e pós-graduado em **Ciência de Dados**, com interesse especial por Inteligência Artificial, arquitetura de microserviços, DevOps e boas práticas de engenharia de software.
+Sou formado em **Sistemas de Informação** pela **UNIFACS**, com pós-graduação em **Ciência de Dados**.
+
+Tenho um interesse especial por **Inteligência Artificial, arquitetura de software e DevOps**. Gosto de explorar novas tecnologias, experimentar ideias e encontrar maneiras mais simples e eficientes de resolver problemas.
+
+No fim das contas, o que mais me motiva é continuar aprendendo e transformar boas ideias em soluções que realmente façam sentido.
