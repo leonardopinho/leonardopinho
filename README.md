@@ -11,5 +11,3 @@ Ao longo da minha trajetória, venho trabalhando com **Python, Go, Dart (Flutter
 Sou formado em **Sistemas de Informação** pela **UNIFACS**, com pós-graduação em **Ciência de Dados**.
 
 Tenho um interesse especial por **Inteligência Artificial, arquitetura de software e DevOps**. Gosto de explorar novas tecnologias, experimentar ideias e encontrar maneiras mais simples e eficientes de resolver problemas.
-
-No fim das contas, o que mais me motiva é continuar aprendendo e transformar boas ideias em soluções que realmente façam sentido.
